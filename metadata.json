@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Digital Marketing Analytics and Campaign Optimization System",
+  "description": "MCA academic digital marketing analytics, automated KPI calculation, campaign optimization, rule-based recommendation engine, and AI insights platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
